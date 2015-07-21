@@ -1,0 +1,9 @@
+Package: com.TweaksByLogan.ThinnerBanners
+Name: ThinnerBanners
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Banners without the grabber!
+Maintainer: Logan O'Connell
+Author: Logan O'Connell
+Section: Tweaks
